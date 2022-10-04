@@ -20,6 +20,6 @@ pytest --cov=codigo --cov-report=html --cov-branch
 
 onde:
 
---cov=codigo = diretorio onde o test ira cobrir
---cov-report=html = formato do relatorio que será gerado
---cov-branch = ativa test de branch
+- --cov=codigo = diretorio onde o test ira cobrir
+- --cov-report=html = formato do relatorio que será gerado
+- --cov-branch = ativa test de branch
